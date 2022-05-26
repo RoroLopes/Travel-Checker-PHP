@@ -1,0 +1,5 @@
+Installation de la Database:
+    Le fichier .sql se trouve à l'interieur du fichier Database, il faut import ce fichier sur phpmyadmin.
+
+Run l'application mobile:
+    Demarrer un serveur en Localhost.
