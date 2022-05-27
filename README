@@ -1,5 +1,7 @@
+Le projet requis php_mysqli.
+
 Installation de la Database:
-    Le fichier .sql se trouve à l'interieur du fichier Database, il faut import ce fichier sur phpmyadmin.
+    Le fichier .sql se trouve à l'intérieur du fichier Database, il faut import ce fichier sur phpmyadmin.
 
 Run l'application mobile:
-    Demarrer un serveur en Localhost.
+    Démarrer un serveur en Localhost.
