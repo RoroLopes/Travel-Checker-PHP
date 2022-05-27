@@ -1,7 +1,22 @@
-Le projet requis php_mysqli.
+# Travel Checker
 
-Installation de la Database:
-    Le fichier .sql se trouve à l'intérieur du fichier Database, il faut import ce fichier sur phpmyadmin.
+## Installation
 
-Run l'application mobile:
-    Démarrer un serveur en Localhost.
+```
+$> sudo dnf install php
+$> sudo dnf install php-mysqli
+$> sudo dnf install sql
+```
+
+## Database Installation
+
+Le fichier .sql se trouve à l'interieur du fichier Database, il faut import ce fichier sur phpmyadmin.
+
+## Run mobile app
+Demarrer un serveur en Localhost.
+
+```
+$> php -S localhost:8000
+```
+
+le serveur sera accessible depuis http://localhost:8000
